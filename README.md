@@ -7,5 +7,6 @@ lista.InnerHTML = ""
 <li> Cristiano Ronaldo
 <li> Neymar Jr
 <li> Ronaldinho
+
 Math.random() math.floor.() 
 document.getElementById() innerHTML
